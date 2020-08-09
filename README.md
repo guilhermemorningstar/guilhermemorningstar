@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## About me
 
-I'm **Enoque Leal**, a Software Developer with more than 9 years of experience, enthusiast of new technologies and Systems Analysis graduate from Senac University.
+Entediado com a vida nas trevas, o diabo se muda para Los Angeles, abre um piano-bar e empresta sua sabedoria a uma investigadora de assassinatos.
 
 - My favorite programming languages are **Java** and **Python**.
 
