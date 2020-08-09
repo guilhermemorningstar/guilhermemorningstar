@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img width="300px" height="500px" align="right" src="https://wscom.com.br/wp-content/uploads/2020/04/AACvjo6-644x1024.jpg"/>
+<img width="300px" height="450px" align="right" src="https://wscom.com.br/wp-content/uploads/2020/04/AACvjo6-644x1024.jpg"/>
 
 # 🔥Lúcifer Morningstar🔥
 
