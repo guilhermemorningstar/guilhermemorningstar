@@ -27,7 +27,7 @@ Bored with being the Lord of Hell, the devil relocates to Los Angeles, where he 
 
 - :smiling_imp: I am the devil
 
-- :en: I speak english
+- :gb: I speak english
 
 - :video_game: My favorite free time is playing video game
 
