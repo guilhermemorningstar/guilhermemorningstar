@@ -27,11 +27,11 @@ Bored with being the Lord of Hell, the devil relocates to Los Angeles, where he 
 
 - :smiling_imp: I am the devil
 
+- :jack_o_lantern: I love halloween
+
 - :video_game: My favorite free time is playing video game
 
 - :pizza: I like to eat pizza
-
-- :jack_o_lantern: I love halloween
 
 - 💻 Learn more about me at:
 
