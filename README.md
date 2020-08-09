@@ -23,4 +23,4 @@ Bored with being the Lord of Hell, the devil relocates to Los Angeles, where he 
 
 - My favorite programming languages are **Java** and **Python**.
 
-Learn more about me at [enoqueleal.com](https://enoqueleal.com)
+Learn more about me at [https://lucifer.fandom.com/wiki/Lucifer_Morningstar](https://lucifer.fandom.com/wiki/Lucifer_Morningstar)
