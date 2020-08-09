@@ -25,5 +25,5 @@ Bored with being the Lord of Hell, the devil relocates to Los Angeles, where he 
 
 My favorite free time is playing video game
 
-💻 Learn more about me at 
+💻 Learn more about me at: 
 (https://lucifer.fandom.com/wiki/Lucifer_Morningstar)
