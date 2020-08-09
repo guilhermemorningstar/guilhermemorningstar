@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 Bored with being the Lord of Hell, the devil relocates to Los Angeles, where he opens a nightclub and forms a connection with a homicide detective 
 </p>
 
-:video_game: My favorite free time is playing video game
+- :video_game: My favorite free time is playing video game
 
-💻 Learn more about me at 
+- 💻 Learn more about me at 
 (https://lucifer.fandom.com/wiki/Lucifer_Morningstar)
