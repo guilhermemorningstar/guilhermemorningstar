@@ -27,7 +27,7 @@ Bored with being the Lord of Hell, the devil relocates to Los Angeles, where he 
 
 - :smiling_imp: I am the devil
 
-- :pizza: I like pizza
+- :pizza: I like to eat pizza
 
 - :jack_o_lantern: I love halloween
 
