@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 Bored with being the Lord of Hell, the devil relocates to Los Angeles, where he opens a nightclub and forms a connection with a homicide detective 
 </p>
 
-- :smiling_imp: <p>I am the devil</p>
+- :smiling_imp:<p>I am the devil</p>
 
 - :video_game: <p>My favorite free time is playing video game</p>
 
