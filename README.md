@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img width="300px" align="right" src="https://user-images.githubusercontent.com/70/88545351-2adc5a80-d01b-11ea-8b1d-940d411e1b3a.jpg"/>
+<img width="300px" align="right" src="https://guaiba.com.br/wp-content/uploads/2019/04/lucifer.jpg"/>
 # 🔥Lúcifer Morningstar🔥
 
 ## About me
 
-Bored with being the Lord of Hell, the devil relocates to Los Angeles, where he opens a nightclub and forms a connection with a homicide detective.
+Bored with being the Lord of Hell, the devil relocates to Los Angeles, where he opens a nightclub and forms a connection with a homicide detective
 
 - My favorite free time is playing video game
 
