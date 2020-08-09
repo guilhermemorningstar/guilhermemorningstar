@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## About me
 
-Entediado com a vida nas trevas, o diabo se muda para Los Angeles, abre um piano-bar e empresta sua sabedoria a uma investigadora de assassinatos.
+Bored with being the Lord of Hell, the devil relocates to Los Angeles, where he opens a nightclub and forms a connection with a homicide detective.
 
 - My favorite programming languages are **Java** and **Python**.
 
