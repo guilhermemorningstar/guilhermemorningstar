@@ -29,9 +29,9 @@ Bored with being the Lord of Hell, the devil relocates to Los Angeles, where he 
 
 - 🌎  I speak all the languages
 
-- :jack_o_lantern: I love halloween
-
 - :video_game: My favorite free time is playing video game
+
+- :jack_o_lantern: I love halloween
 
 - 💻 Learn more about me at: 
 
