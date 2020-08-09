@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img width="485px" height="430px" align="right" src="https://www.minhaserie.com.br/uploads/editor_pictures/000/061/936/content_pic.jpg"/>
+<img width="480px" height="430px" align="right" src="https://www.minhaserie.com.br/uploads/editor_pictures/000/061/936/content_pic.jpg"/>
 
 # 🔥Lúcifer Morningstar🔥
 
