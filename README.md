@@ -25,14 +25,14 @@ Here are some ideas to get you started:
 Bored with being the Lord of Hell, the devil relocates to Los Angeles, where he opens a nightclub and forms a connection with a homicide detective 
 </p>
 
-- :smiling_imp:<p>I am the devil</p>
+- :smiling_imp: I am the devil
 
-- :video_game: <p>My favorite free time is playing video game</p>
+- :video_game: My favorite free time is playing video game
 
-- :pizza: <p>I like to eat pizza</p>
+- :pizza: I like to eat pizza
 
-- :jack_o_lantern: <p>I love halloween</p>
+- :jack_o_lantern: I love halloween
 
-- 💻 <p>Learn more about me at:</p> 
+- 💻 Learn more about me at:
 
 :point_right: (https://lucifer.fandom.com/wiki/Lucifer_Morningstar)
