@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 -->
 <img width="480px" height="430px" align="right" src="https://www.minhaserie.com.br/uploads/editor_pictures/000/061/936/content_pic.jpg"/>
 
-<h1> 🔥Lúcifer Morningstar🔥 </h1>
+# 🔥Lúcifer Morningstar🔥 
 
-<h1> About me </h1>
+## About me 
 
 <p align="justify">
 Bored with being the Lord of Hell, the devil relocates to Los Angeles, where he opens a nightclub and forms a connection with a homicide detective 
