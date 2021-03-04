@@ -33,6 +33,6 @@ Bored with being the Lord of Hell, the devil relocates to Los Angeles, where he 
 
 - :pizza: I like to eat pizza
 
-- 💻 Learn more about me at:
+- :black_book: Learn more about me at:
 
 :point_right: (https://lucifer.fandom.com/wiki/Lucifer_Morningstar)
