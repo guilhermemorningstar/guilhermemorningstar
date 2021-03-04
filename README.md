@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ## About me 
 
 <p align="justify">
-Bored with being the Lord of Hell, the devil relocates to Los Angeles, where he opens a nightclub and forms a connection with a homicide detective 
+Bored with being the Lord of Hell, the devil relocates to Los Angeles, where he opens a nightclub and forms a connection with a homicide detective. 
 </p>
 
 - :smiling_imp: I am the devil
